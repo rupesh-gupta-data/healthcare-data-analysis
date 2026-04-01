@@ -1,0 +1,26 @@
+﻿Step,Problem Found,Action Taken,Rows Affected
+1,No length of stay column,Created Stays column (Discharge Date − Admission Date),All rows
+2,No age category existed,Created Age_Group column — Young / Adult / Senior,All rows
+3,No cost per day column,Created Per_Day_Cost column (Billing ÷ Stays),All rows
+4,Possible negative billing values,Added Negative_Value flag column to detect them,All rows
+5,Year not separately available,Created Years column using YEAR() formula,All rows
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

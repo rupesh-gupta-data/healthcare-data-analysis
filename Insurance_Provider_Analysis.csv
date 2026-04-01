@@ -1,0 +1,8 @@
+﻿Insurance Provider Analysis,,,,
+Insurance Provider,Average of Billing Amount,,,Excel finds: All providers look equal in pie chart
+Medicare,25628 ,,,"SQL explains: Medicare = ₹25,630 vs UnitedHealthcare = ₹25,415"
+Blue Cross,25603 ,,,SQL adds: Gap = only ₹215 = synthetic pricing confirmed
+Aetna,25550 ,,,
+Cigna,25526 ,,,
+UnitedHealthcare,25415 ,,,
+Grand Total,25544.30628,,,
